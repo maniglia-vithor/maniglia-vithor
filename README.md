@@ -1,31 +1,42 @@
+<h2>João Vithor de Oliveira Maniglia </h2>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Faça uma breve apresentação sua com o seu nome e não esqueça a <strong>sua stack</strong>.<br>
-  Diga o que você está fazendo no momento, se trabalha ou estuda.
+Sou um grande <strong>adepto à tecnologia</strong> - tendo em vista que nasci em uma geração moldada por ela - e creio que sua evolução possa auxiliar e expandir nossas capacidades em diversos campos. Com isso em mente, busco sempre estudar e ampliar meu conhecimento na área, visando desenvolver maneiras mais rápidas e eficientes de alcançar meus objetivos. Sou uma pessoa detalhista, proativa e empenhada. Tenho interesse em uma ampla variedade de assuntos e estou sempre buscando reavaliar e aprimorar minhas áreas de conhecimento. Além disso, sou adepto ao conceito de coworking, uma vez que, trabalhando em equipe, sou capaz de compartilhar e aprender novas ideias e opiniões.
+<br>
+<br> 
+
+<h2>Experiências e Competências</h2>
+  
+[<img align="left" height="94px" width="94px" alt="Warpnet" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbRKJQsp1PZX1LCf4tgbOwbobvVsJTh9pv6g&s"/>](https://www.deltaze.com.br)
+
+**ERP Intern** \
+[**VinhaNet Software**](https://www.deltaze.com.br) • Part-time \
+Principais Atividades: `Suporte N1`, `Análise`, `Atendimento de Tickets`, `Encaminhamento e acompanhamento de Problemas Técnicos`
+<br/>
 </p>
 
-<p align="left">
-  🦄 Linguagens: **Coloque as linguagens que você desenvolve.**
-</p>
+### Hard Skills:
+
+  🖥️ Linguagens & Tecnologias: `Python 3`, `JavaScript`, `C++`, `C#`, `SQL` 
+  
+  ⚙️ Ferramentas: `Excel`, `PowerBI`, `MySQL`, `Sistemas ERP`
+
+### Soft Skills:
+
+  🙋🏻‍♂️ Pessoal: `Inquietude`, `Curiosidade`, `Raciocínio Lógico`, `Disciplina`, `Responsabilidade` 
+  
+  🌐 Social: `Colaboratividade`, `Compromisso`, `Adaptatividade`, `Comunicação`
 
 <p align="left">
-  💼 Ferramentas: **Coloque as suas ferramentas de trabalho.**
+  Contato: 
 </p>
 
-<p align="left">
-  💌 Aqui vai uma mensagem para entrar em contato com você: ⤵️
-</p>
-
-<p align="left">
-  <a href="#" title="Gmail">
+<p align="left"> 
+  <a href="joaovithoroliveira6@gmail.com" title="Gmail">
   <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=LINK-DO-SEU-GMAIL" alt="Gmail"/></a>
-  <a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a>
-  <a href="#" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=API-DO-SEU-WHATSAPP" alt="WhatsApp"/></a>
-  <a href="#" title="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=LINK-DO-SEU-FACEBOOK" alt="Facebook"/></a>
-  <a href="#" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" alt="Instagram"/></a>
+  <a href="linkedin.com/in/joão-vithor-maniglia-713a0a260" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN" alt="LinkedIn"/></a> 
 </p>
+
+Telefone : `(11) 97598-4371` 
